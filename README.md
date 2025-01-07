@@ -16,12 +16,23 @@
 - 💾 本地数据存储
 - 🌈 多主题支持
 
-[下载最新版本](../../releases/latest)
+[下载 Now 最新版本](https://github.com/liuhuakawaii/DevToolKit/releases/tag/v1.1.2)
+
+### 2. easyScraper - 媒体数据采集工具
+![版本](https://img.shields.io/badge/版本-v1.0.0-blue)
+![平台](https://img.shields.io/badge/平台-Chrome-lightgrey)
+
+采集网站媒体数据，快速获取图片、视频等资源。
+
+**特性：**
+- 📷 一键获取youtube、bilibili、小红书等笔记数据
+- 多种格式的数据采集
+
+[下载 easyScraper 最新版本](https://github.com/liuhuakawaii/DevToolKit/releases/latest)
 
 ## 📅 更新计划
 - [ ] Now v1.2.0 - 添加数据导出功能
-- [ ] DevSearch - 开发者搜索工具（开发中）
-- [ ] CodeSnippet - 代码片段管理器（计划中）
+- [ ] easyScraper V1.0.0 - chrome 插件 多媒体数据采集
 
 ## 🔄 更新日志
 
